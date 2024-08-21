@@ -1,5 +1,5 @@
 
-[![MasterHead]("C:\Users\anmol\Downloads\54680.jpg")]
+[![MasterHead](https://wallpapercrafter.com/desktop1/520844-Marvel-Spider-Man-spider-amazing-spider-man-2-2014.jpg)]
 
 <h1 align="center">Hi 👋, I'm Anmol Sinha</h1>
 <h3 align="center">A passionate developer from IIIT-Allahabad.</h3>
