@@ -1,86 +1,75 @@
 <h1 align="center">Hi 👋, I'm Anmol Sinha</h1>
 <h3 align="center">A passionate developer from IIIT-Allahabad.</h3>
 
+- 🌱 I’m currently learning **MERN stack**
+
+- 💬 Ask me about **Reactjs,Javascript,Classical ML,DSA**
+
+- 📫 How to reach me **anmolsinhaamit@gmail.com**
+
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1iavl4b9dg0C5_cqeoQJ7RuPuYrweSv2B/view?usp=sharing" target="_blank">**Resume**</a>
+
+- ⚡ Fun fact **There’s no place like 127.0.0.1**
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Currently+learning+MERN+stack;Ask+me+about+Reactjs%2C+JavaScript%2C+Classical+ML%2C+DSA;Fun+fact%3A+There’s+no+place+like+127.0.0.1" alt="Typing SVG" />
 </p>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/anmol sinha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anmol sinha" height="30" width="40" /></a>
+<a href="https://kaggle.com/erwinschrondinger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="erwinschrondinger" height="30" width="40" /></a>
+<a href="https://instagram.com/anmol__065" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anmol__065" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/anmol_iiita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anmol_iiita" height="30" width="40" /></a>
 <p align="center">
-  <a href="mailto:anmolsinhaamit@gmail.com">
-    <img src="https://img.shields.io/badge/Email-anmolsinhaamit@gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email"/>
-  </a>
-  <a href="https://drive.google.com/file/d/1iavl4b9dg0C5_cqeoQJ7RuPuYrweSv2B/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-View%20Resume-red?style=for-the-badge&logo=google-drive" alt="Resume"/>
-  </a>
-  <a href="https://github.com/anmol9835255787">
-    <img src="https://img.shields.io/badge/GitHub-Visit%20my%20GitHub-black?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://twitter.com/your_twitter_handle">
-    <img src="https://img.shields.io/badge/Twitter-Follow%20me%20on%20Twitter-blue?style=for-the-badge&logo=twitter" alt="Twitter"/>
-  </a>
+  <a href="mailto:anmolsinhaamit@gmail.com"><img src="https://img.shields.io/badge/Email-anmolsinhaamit@gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email"/></a>
+  <a href="https://drive.google.com/file/d/1iavl4b9dg0C5_cqeoQJ7RuPuYrweSv2B/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Resume-View%20Resume-red?style=for-the-badge&logo=google-drive" alt="Resume"/></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/anmol-sinha" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="https://kaggle.com/erwinschrondinger" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-Explore%20my%20Kaggle%20Profile-orange?style=for-the-badge&logo=kaggle" alt="Kaggle"/>
-  </a>
-  <a href="https://instagram.com/anmol__065" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow%20me%20on%20Instagram-pink?style=for-the-badge&logo=instagram" alt="Instagram"/>
-  </a>
-  <a href="https://www.leetcode.com/anmol_iiita" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Solve%20problems%20on%20LeetCode-lightgrey?style=for-the-badge&logo=leetcode" alt="LeetCode"/>
-  </a>
+  <a href="https://linkedin.com/in/anmol-sinha" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="https://kaggle.com/erwinschrondinger" target="_blank"><img src="https://img.shields.io/badge/Kaggle-Explore%20my%20Kaggle%20Profile-orange?style=for-the-badge&logo=kaggle" alt="Kaggle"/></a>
+  <a href="https://instagram.com/anmol__065" target="_blank"><img src="https://img.shields.io/badge/Instagram-Follow%20me%20on%20Instagram-pink?style=for-the-badge&logo=instagram" alt="Instagram"/></a>
+  <a href="https://www.leetcode.com/anmol_iiita" target="_blank"><img src="https://img.shields.io/badge/LeetCode-Solve%20problems%20on%20LeetCode-lightgrey?style=for-the-badge&logo=leetcode" alt="LeetCode"/></a>
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anmol9835255787&show_icons=true&locale=en&layout=compact&bg_color=000000" alt="anmol9835255787" /></p>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-  <!-- Add animated SVGs -->
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="50" height="50" style="animation: spin 4s linear infinite;"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50" style="animation: spin 4s linear infinite;"/>
-  </a>
-  <!-- Add more tools with animations -->
-  <a href="https://www.reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50" style="animation: bounce 2s infinite;"/>
-  </a>
-  <!-- Add more tools as needed -->
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="50" height="50"/></a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/></a>
+  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"><img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="50" height="50"/></a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/></a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/></a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="50" height="50"/></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/></a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/></a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/></a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/></a>
+  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="50" height="50"/></a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/></a>
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="50" height="50"/></a>
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="50" height="50"/></a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/></a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/></a>
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="50" height="50"/></a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/></a>
+  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="50" height="50"/></a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50"/></a>
 </p>
 
-<h3 align="center">My GitHub Stats:</h3>
-
-<!-- 3D Effect Container -->
-<div align="center" style="perspective: 1000px;">
-  <div style="transform-style: preserve-3d; transition: transform 0.5s;">
-    <div style="transform: rotateY(0deg);">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anmol9835255787&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=fff&text_color=fff&icon_color=00bfff" alt="Top Languages" style="border-radius: 10px; box-shadow: 0 10px 20px rgba(0,0,0,0.2);"/>
-    </div>
-    <div style="transform: rotateY(180deg);">
-      <img src="https://github-readme-stats.vercel.app/api?username=anmol9835255787&show_icons=true&locale=en&bg_color=000000&title_color=fff&text_color=fff&icon_color=00bfff" alt="GitHub Stats" style="border-radius: 10px; box-shadow: 0 10px 20px rgba(0,0,0,0.2);"/>
-    </div>
-  </div>
-</div>
-
-<h3 align="center">Activity Graph:</h3>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anmol9835255787&show_icons=true&locale=en&bg_color=000000" alt="anmol9835255787" /></p>
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=anmol9835255787&theme=github&hide_border=true&area=true" alt="Activity Graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anmol9835255787&show_icons=true&locale=en&layout=compact&bg_color=000000" alt="Top Languages" />
 </p>
 
-<!-- SVG Animation CSS -->
-<style>
-  @keyframes spin {
-    0% { transform: rotate(0deg); }
-    100% { transform: rotate(360deg); }
-  }
-
-  @keyframes bounce {
-    0%, 20%, 50%, 80%, 100% { transform: translateY(0); }
-    40% { transform: translateY(-30px); }
-    60% { transform: translateY(-15px); }
-  }
-</style>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anmol9835255787&show_icons=true&locale=en&bg_color=000000" alt="GitHub Stats" />
+</p>
