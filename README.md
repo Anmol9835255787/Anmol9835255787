@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Animated Greeting" />
-</h1>
+<h1 align="center">Hi 👋, I'm Anmol Sinha</h1>
 <h3 align="center">A passionate developer from IIIT-Allahabad.</h3>
 
 <p align="center">
@@ -54,7 +52,8 @@
 
 <h3 align="center">Random Quote:</h3>
 <p align="center">
-  <img src="https://quotes15.p.rapidapi.com/quote/random?apikey=YOUR_API_KEY" alt="Random Quote" />
+  <img src="https://api.api-ninjas.com/v1/quotes?category=happiness
+" alt="Random Quote" />
 </p>
 
 <p align="center">
