@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anmol Sinha</h1>
 <h3 align="center">A passionate developer from IIIT-Allahabad.</h3>
 
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Currently+learning+MERN+stack;Ask+me+about+Reactjs%2C+JavaScript%2C+Classical+ML%2C+DSA;Fun+fact%3A+There’s+no+place+like+127.0.0.1" alt="Typing SVG" />
 </p>
@@ -54,12 +53,22 @@
 </p>
 
 <h3 align="center">My GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anmol9835255787&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=fff&text_color=fff&icon_color=00bfff" alt="Top Languages"/>
-</p>
 
+<!-- 3D Effect Container -->
+<div align="center" style="perspective: 1000px;">
+  <div style="transform-style: preserve-3d; transition: transform 0.5s;">
+    <div style="transform: rotateY(0deg);">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anmol9835255787&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=fff&text_color=fff&icon_color=00bfff" alt="Top Languages" style="border-radius: 10px; box-shadow: 0 10px 20px rgba(0,0,0,0.2);"/>
+    </div>
+    <div style="transform: rotateY(180deg);">
+      <img src="https://github-readme-stats.vercel.app/api?username=anmol9835255787&show_icons=true&locale=en&bg_color=000000&title_color=fff&text_color=fff&icon_color=00bfff" alt="GitHub Stats" style="border-radius: 10px; box-shadow: 0 10px 20px rgba(0,0,0,0.2);"/>
+    </div>
+  </div>
+</div>
+
+<h3 align="center">Activity Graph:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anmol9835255787&show_icons=true&locale=en&bg_color=000000&title_color=fff&text_color=fff&icon_color=00bfff" alt="GitHub Stats"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=anmol9835255787&theme=github&hide_border=true&area=true" alt="Activity Graph"/>
 </p>
 
 <!-- SVG Animation CSS -->
