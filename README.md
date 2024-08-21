@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **anmolsinhaamit@gmail.com**
 
-- 📄 Know about my experiences [**Resume**][https://drive.google.com/file/d/1iavl4b9dg0C5_cqeoQJ7RuPuYrweSv2B/view?usp=sharing](https://drive.google.com/file/d/1iavl4b9dg0C5_cqeoQJ7RuPuYrweSv2B/view?usp=sharing)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1iavl4b9dg0C5_cqeoQJ7RuPuYrweSv2B/view?usp=sharing" target="_blank">**Resume**</a>
 
 - ⚡ Fun fact **There’s no place like 127.0.0.1**
 
