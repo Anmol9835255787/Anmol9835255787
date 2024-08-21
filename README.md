@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anmol Sinha</h1>
 <h3 align="center">A passionate developer from IIIT-Allahabad.</h3>
 
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Currently+learning+MERN+stack;Ask+me+about+Reactjs%2C+JavaScript%2C+Classical+ML%2C+DSA;Fun+fact%3A+There’s+no+place+like+127.0.0.1" alt="Typing SVG" />
 </p>
