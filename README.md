@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Animated Greeting" />
-</h1>
+<h1 align="center">Hi 👋, I'm Anmol Sinha</h1>
 <h3 align="center">A passionate developer from IIIT-Allahabad.</h3>
 
 <p align="center">
