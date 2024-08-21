@@ -38,6 +38,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
+  <!-- Add animated SVGs -->
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="50" height="50" style="animation: spin 4s linear infinite;"/>
   </a>
@@ -52,22 +53,12 @@
 </p>
 
 <h3 align="center">My GitHub Stats:</h3>
-
-<!-- 3D Effect Container -->
-<div align="center" style="perspective: 1000px;">
-  <div style="transform-style: preserve-3d; transition: transform 0.5s;">
-    <div style="transform: rotateY(0deg);">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anmol9835255787&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=fff&text_color=fff&icon_color=00bfff" alt="Top Languages" style="border-radius: 10px; box-shadow: 0 10px 20px rgba(0,0,0,0.2);"/>
-    </div>
-    <div style="transform: rotateY(180deg);">
-      <img src="https://github-readme-stats.vercel.app/api?username=anmol9835255787&show_icons=true&locale=en&bg_color=000000&title_color=fff&text_color=fff&icon_color=00bfff" alt="GitHub Stats" style="border-radius: 10px; box-shadow: 0 10px 20px rgba(0,0,0,0.2);"/>
-    </div>
-  </div>
-</div>
-
-<h3 align="center">Activity Graph:</h3>
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=anmol9835255787&theme=github&hide_border=true&area=true" alt="Activity Graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anmol9835255787&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=fff&text_color=fff&icon_color=00bfff" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anmol9835255787&show_icons=true&locale=en&bg_color=000000&title_color=fff&text_color=fff&icon_color=00bfff" alt="GitHub Stats"/>
 </p>
 
 <!-- SVG Animation CSS -->
